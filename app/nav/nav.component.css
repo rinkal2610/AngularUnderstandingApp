@@ -1,0 +1,14 @@
+.container a{
+    background-color: lightblue;
+    color: darkblue;
+    display: block;
+    text-decoration: none;
+    padding: 12px;
+}
+.menu a:hover{
+    background-color: green;
+    color: whitesmoke;
+}
+.menu a.active{
+    color: darkgreen;
+}
